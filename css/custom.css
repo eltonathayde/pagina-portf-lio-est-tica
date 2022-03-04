@@ -42,3 +42,47 @@
     width:40%;
     height: 4px;
 }
+.color1{
+    background-color: #ff8c002e;
+    border-radius: 24px;
+}
+.color2{
+    background-color: #00008b33;
+    border-radius: 24px;
+}
+.color3{
+    border: solid 1px gray;
+    border-radius: 24px;
+}
+.color4{
+    background-color: #8b008b4d;
+    border-radius: 24px;
+}
+.color5{
+    background-color: #00640054;
+    border-radius: 24px;
+}
+.color6{
+    background-color: #008b8b7a;
+    border-radius: 24px;
+}
+.color1,.color2,.color3,.color4,.color5,.color6{
+    width: 277px;
+}
+.estatica{
+    width: 30px;
+}
+.esquerda{
+    margin-left: -14px;
+}
+.diasP{
+    width: 85px;
+    border-radius: 20px;
+    height: 24px;
+
+}
+.mais{
+    border-radius: 20px;
+    width: 22px;
+    height: 26px;
+}

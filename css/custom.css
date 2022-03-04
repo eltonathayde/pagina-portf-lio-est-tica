@@ -1,0 +1,44 @@
+
+
+/* div central */
+.title,.status-icon ,.cabecalho{
+    justify-content: space-between;
+}
+.box-status{
+    padding:  0px 10px 0px 0px;
+}
+
+.icon{
+    padding:0px 20px 0px 0px;
+}
+
+.porcento{
+    background-color: darkgoldenrod;
+    width: 60%;
+    height: 4px;
+}
+.porcento2{
+    background-color: rgb(25, 25, 223);
+    width: 50%;
+    height: 4px;
+}
+.porcento3{
+    background-color: darkgray;
+    width: 80%;
+    height: 4px
+}
+.porcento4{
+    background-color:darkmagenta;
+    width: 20%;
+    height: 4px;
+}
+.porcento5{
+    background-color:darkgreen;
+    width: 60%;
+    height: 4px;
+}
+.porcento6{
+    background-color:darkslategray;
+    width:40%;
+    height: 4px;
+}

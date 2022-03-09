@@ -1,4 +1,17 @@
 
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: white;
+}
+
+body{
+
+    height: 100vh;
+}
 
 /* div central */
 .title,.status-icon ,.cabecalho{
@@ -72,6 +85,10 @@
 .estatica{
     width: 30px;
 }
+.estatica2{
+    width: 50px;
+    height: 50px;
+}
 .esquerda{
     margin-left: -14px;
 }
@@ -85,4 +102,22 @@
     border-radius: 20px;
     width: 22px;
     height: 26px;
+}
+.cliente{
+    padding: 15px;
+}
+.normal{
+    margin-bottom: auto;
+}
+.spacing{
+    padding: 10px;
+}
+.distanciamento{
+    margin-left: 21px;
+}
+.borda-redonda{
+    border-radius: 20px;
+}
+.pesquisa{
+    width: 200px;
 }
